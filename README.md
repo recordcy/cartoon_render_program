@@ -65,8 +65,7 @@ The bilateral filter effectively flattens skin tones, clothing, and backgrounds 
 [Original]  →  [Smoothed Color]  →  [Edge Mask]  →  [Cartoon Output]
 ```
 ![demo](comparison_result1.jpg)
-<img src="comparison_result1.jpg" width="50%">
-![demo](cartoon_output1.jpg)
+<img src="cartoon_output1.jpg" width="50%">
 ![demo](comparison_result2.png)
 ![demo](cartoon-output2.png)
 
